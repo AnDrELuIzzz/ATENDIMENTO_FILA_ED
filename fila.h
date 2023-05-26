@@ -16,6 +16,6 @@ int desenfilera(fila *);
 int verifica_tamanho(fila *);
 int consulta_primeiro(fila *);
 void exibe_fila(fila *);
-void gera_valor(int, fila *);
+void gerar_valor(int, fila *);
 int verifica_valor(int, fila *);
 void atendimento(fila *);

@@ -85,7 +85,7 @@ int verifica_valor(int i, fila *f)
   return 0;
 }
 
-void gera_valor(int insere_n, fila *f)
+void gerar_valor(int insere_n, fila *f)
 {
   inicia_fila(&f);
   srand(time(0));

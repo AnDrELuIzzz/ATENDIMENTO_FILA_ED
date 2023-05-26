@@ -8,7 +8,7 @@ int main()
 
     int quantidade = 10;
 
-    gera_valor(quantidade, &f);
+    gerar_valor(quantidade, &f);
 
     printf("Valores gerados:\n");
     NO *aux = f.primeiro;
